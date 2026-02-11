@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "community-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7cd32c60-a550-41ca-a5f5-5068791a614f",
+			"database_name": "travel-community-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
